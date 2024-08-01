@@ -1,2 +1,3 @@
-welcome to my coding journey 
-practice makes perfect 
+# my-coding-temple-ship-log
+
+Author: coding temple
